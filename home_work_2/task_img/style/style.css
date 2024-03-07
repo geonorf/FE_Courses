@@ -1,0 +1,12 @@
+body {
+    width: 50%;
+    margin: auto;
+}
+
+.position_to_center {
+    text-align: center;
+}
+
+.position_to_right {
+    text-align: right;
+}
