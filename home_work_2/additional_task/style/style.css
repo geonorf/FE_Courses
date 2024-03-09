@@ -1,0 +1,99 @@
+table {
+    border-collapse: collapse;
+    margin: auto;
+    color: white;
+}
+
+tr {
+    
+    border-bottom: 10px solid;
+    border-top: 10px solid;
+}
+
+td {
+    border-right: 5px solid;
+    border-left: 5px solid;
+    border-radius: 14px;
+    width: 60px;
+    height: 60px;
+}
+
+td .newLine {
+    display: block;
+    text-align: center;
+}
+
+td .uperLine {
+    font-size: 8px;
+}
+
+td .middleLine {
+    font-size: x-large;
+}
+
+td .downLine {
+    font-size: 8px;
+}
+
+.twoLines {
+    text-align: center;
+    vertical-align: top;
+}
+
+.twoLines_1 {
+    margin-top: 10px;
+}
+
+.twoLines_2 {
+    margin-top: 10px;
+}
+
+.bg_none{
+    background-color: white;
+}
+
+.bc_Mountain_Meadow {
+    background-color: #14ae5c;
+}
+
+.bc_Electric_Violet_0 {
+    background-color: #6448ff;
+}
+
+.bc_Electric_Violet {
+    background-color: #9328fe;
+}
+
+.bc_Royal_Blue {
+    background-color: #487bde;
+}
+
+.bc_Coral_Red {
+    background-color: #ff4343;
+}
+
+.bc_Burning_Orange {
+    background-color: #ff7043;
+}
+
+.bc_Pizazz {
+    background-color: #ff8a00;
+}
+
+.bc_Juniper {
+    background-color: #699797;
+
+}
+
+.bc_Strikemaster {
+    background-color: #976995;
+}
+
+.bc_Eastern_Blue {
+    background-color: #1b99c1;
+}
+
+.bc_Mariner {
+    background-color: #2d68da;
+}
+
