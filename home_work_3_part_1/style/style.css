@@ -1,0 +1,43 @@
+.login_form {
+    width: 350px;
+    height: 420px;
+    background-color: black;
+    margin: auto;
+    padding-top: 2%;
+    box-sizing: border-box;
+}
+
+.dimg {
+    display: block;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.wtext {
+    text-align: center;
+    letter-spacing: 12px;
+    font-size: 1.5rem;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gbuttons {
+    display: block;
+    padding-top: 2%;
+
+}
+
+.login_links {
+    display: block;
+    border: 3px solid white;
+    margin: 10px auto;
+    padding: 10px 0;
+    width: 70%;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 0.8em;
+    letter-spacing: 2px;
+}
